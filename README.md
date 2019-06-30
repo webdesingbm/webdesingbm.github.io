@@ -1,2 +1,2 @@
-# webdesingbm.github.io
-Root Repository
+# Маринушкин Юрий
+Примеры вёрстки из PSD-макета. 
