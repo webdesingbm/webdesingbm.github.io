@@ -3,3 +3,4 @@
 
 + [пример 1](http://webdesingbm.github.io/1/)
 + [пример 2](http://webdesingbm.github.io/2/)
++ [пример 3](http://webdesingbm.github.io/3/)
