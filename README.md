@@ -1,7 +1,4 @@
-# Маринушкин Юрий
 ### Примеры вёрстки из PSD-макета. 
 
-+ [пример 1](http://webdesingbm.github.io/1/)
-+ [пример 2](http://webdesingbm.github.io/2/)
-+ [пример 3](http://webdesingbm.github.io/3/)
-+ [пример 4](http://webdesingbm.github.io/4/)
++ /webdesingbm.github.io
+
